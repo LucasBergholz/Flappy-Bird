@@ -1,1 +1,1 @@
-*.ASP.NET linguist-vendored
+*.ASP.NET linguist--detectable=false
